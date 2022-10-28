@@ -84,14 +84,14 @@
     "tosource": "2.0.0-alpha.3",
     "unified": "9.2.2",
     "vuepress": "1.9.7",
-    "vuepress-plugin-meilisearch": "0.12.4",
+    "vuepress-plugin-meilisearch": "0.13.0",
     "vuepress-plugin-sitemap": "2.3.1",
     "yorkie": "2.0.0"
   },
   "dependencies": {
     "@koa/router": "12.0.0",
     "@postlight/parser": "2.2.3",
-    "@sentry/node": "7.16.0",
+    "@sentry/node": "7.17.1",
     "aes-js": "3.1.2",
     "art-template": "4.13.2",
     "bbcodejs": "0.0.4",
